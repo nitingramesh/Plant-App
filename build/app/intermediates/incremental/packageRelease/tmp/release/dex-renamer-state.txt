@@ -1,0 +1,4 @@
+#Sat Nov 05 12:47:44 IST 2022
+base.0=C\:\\Users\\Admin\\git\\Plant\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
